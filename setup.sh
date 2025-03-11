@@ -52,7 +52,7 @@ check_configs() {
 while true; do
     clear
     echo "============================================================================"
-    echo "    Red Pocket BOT SETUP AND RUN SCRIPT"
+    echo "    Red Pocket BOT SETUP AND RUN SCRIPT by @Meomundep"
     echo "============================================================================"
     echo
     echo "Current directory: $(pwd)"
@@ -112,7 +112,7 @@ while true; do
             else
                 print_green "Using node_modules from current directory"
             fi
-            cd "red pocket" && node bot
+            node meomundep
             read -p "Press Enter to continue..."
             ;;
         4)
