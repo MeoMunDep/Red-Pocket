@@ -40,7 +40,6 @@ Download Node.js and npm here: [Download Link](https://t.me/KeoAirDropFreeNe/257
 
 ```json
 {
-  "timeZone": "en-US",
   "delayEachAccount": [5, 8],
   "timeToRestartAllAccounts": 300,
   "numberOfAccountsRunInOneTime": 100,
@@ -85,6 +84,6 @@ socks5://user:pass@host:port
 💡 Usage:
 
 > You need to `cd` to the file after extract it.
-> To run the bot, use the following command: `cd "red pocket-main/red pocket"; node meomundep`
+> To run the bot, use the following command: `cd "red pocket"; node meomundep`
 
 🎇Enjoy!

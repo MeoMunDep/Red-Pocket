@@ -1,0 +1,1 @@
+console.log(`Stop updating on this game, please choose another scripts!`)
